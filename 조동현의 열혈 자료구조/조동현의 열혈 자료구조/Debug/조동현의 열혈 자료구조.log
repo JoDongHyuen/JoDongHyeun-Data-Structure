@@ -1,3 +1,5 @@
-﻿  HelloDataStructure.c
+﻿  01_서론.c
+c:\users\rhsnf\문서\visual studio 2015\projects\jodonghyeun-s-data-structure\조동현의 열혈 자료구조\조동현의 열혈 자료구조\01_서론.c(80): warning C4716: 'Binary_Search_main': 값을 반환해야 합니다.
+c:\users\rhsnf\문서\visual studio 2015\projects\jodonghyeun-s-data-structure\조동현의 열혈 자료구조\조동현의 열혈 자료구조\01_서론.c(108): warning C4716: 'Linear_Search_main': 값을 반환해야 합니다.
   조동현의 열혈 자료구조.vcxproj -> C:\Users\rhsnf\문서\Visual Studio 2015\Projects\JoDongHyeun-s-Data-Structure\조동현의 열혈 자료구조\Debug\조동현의 열혈 자료구조.exe
   조동현의 열혈 자료구조.vcxproj -> C:\Users\rhsnf\문서\Visual Studio 2015\Projects\JoDongHyeun-s-Data-Structure\조동현의 열혈 자료구조\Debug\조동현의 열혈 자료구조.pdb (Full PDB)
