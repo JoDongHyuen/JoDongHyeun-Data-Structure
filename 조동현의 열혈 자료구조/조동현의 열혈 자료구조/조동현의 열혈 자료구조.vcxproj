@@ -147,6 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01_서론.c" />
+    <ClCompile Include="02_재귀.c" />
     <ClCompile Include="Hello Data Structure.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
